@@ -1,0 +1,10 @@
+// CLIENT TO SERVER ACTIONS
+
+export const CREATE_POST = 'CREATE_POST';
+export const EDIT_POST = 'EDIT_POST';
+
+// SERVER TO CLIENT ACTIONS
+
+export const SET_USERS = 'SET_USERS';
+export const ADD_POST = 'ADD_POST';
+export const UPDATE_POST = 'UPDATE_POST';
